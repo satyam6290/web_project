@@ -1,6 +1,6 @@
 # Online Signature App
 
-## Overview
+## Overview  
 
 The **Online Signature App** is a web-based application that allows users to create, customize, save, and retrieve digital signatures. It provides a user-friendly interface for drawing signatures, changing text color, adjusting the background color, and selecting font sizes.
 
