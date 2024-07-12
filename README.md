@@ -32,7 +32,7 @@ To run this project, you need a web browser that supports HTML5 and JavaScript.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/online-signature-app.git
+   git clone https://github.com/satyam6290/web_project.git
 
 2.  Navigate to the project directory:
 cd online-signature-app
